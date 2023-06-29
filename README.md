@@ -1,2 +1,3 @@
 # Procurement-Wellbeing-Framework
-The Procurement Wellbeing Framework sets upon this journey of Redefining value in procurement Embracing social, economic, environmental, and cultural elements, it expands the concept of value. Evaluating the impact and outcomes in these dimensions expands the concept of value, enabling procurement to contribute to broader well-being.
+The **Procurement Wellbeing Framework** is a journey of redefining value in procurement embracing social, economic, environmental, and cultural elements. Evaluating the impact and outcomes in these dimensions expands the concept of value, allowing procurement to become more aligned with other wellbeing frameworks and value systems. Procurement has inextricably been intertwined with concepts of Time, Cost, and Quality, which may be important, but they dont capture the comprehensive nature of Procurement and, arguably, what procurements true capabilities are when considered holistically. 
+
