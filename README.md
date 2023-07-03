@@ -1,5 +1,5 @@
 # Procurement-Wellbeing-Framework
-Welcome to the **Procurement Wellbeing Framework** a journey of redefining the structures of value in procurement. As we embark on this expedition, our compass is guided by a set of fundamental axioms and derivative principles. These axioms, forming the bedrock of our framework, are straightforward yet profound: "Suffering is bad", "Prosperity is good", "Understanding is good".
+Welcome to the **Procurement Wellbeing Framework**, a journey of redefining the structures of value in procurement. As we embark on this expedition, our compass is guided by a set of fundamental axioms and derivative principles. These axioms, forming the bedrock of our framework, are straightforward yet profound: "Suffering is bad", "Prosperity is good", "Understanding is good".
 
 Informed by these axioms, derivative principles take shape, manifesting through the pillars of social, economic, environmental, and cultural dimensions. Our focus is to evaluate and enrich the impact and outcomes in these areas, thereby broadening the definition of value. This shift allows procurement to align more closely with various wellbeing frameworks and value systems.
 
